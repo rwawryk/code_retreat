@@ -12,7 +12,6 @@ https://github.com/ldrygala/pokerHands
 
 # bowling
 http://www.infobowling.pl/artykuly.php/60/29,lekcja_gry_nr_2
-http://fl-bsc.sourceforge.net/fl-bsc.html
-
+http://www.bowlinggenius.com/
 # assertj
 http://joel-costigliola.github.io/assertj/index.html
